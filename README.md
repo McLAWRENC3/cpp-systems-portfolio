@@ -1,6 +1,6 @@
 # C++ Systems Portfolio
 
-A professional portfolio of production-quality C++ applications built with strong emphasis on:
+
 
 - Software architecture
 - Object-oriented design
