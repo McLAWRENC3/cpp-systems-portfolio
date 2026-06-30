@@ -1,0 +1,3 @@
+g++ src/*.cpp -Iinclude -IC:/msys64/ucrt64/include \
+-LC:/msys64/ucrt64/lib -lpqxx -lpq \
+-std=c++17 -o employee_management_system
